@@ -2,8 +2,6 @@ customer-transaction-matching
 
 # Customer–Transaction Matching System
 
-# Customer–Transaction Matching System
-
 This project automates the process of matching bank transaction records with customer master data. The goal is to accurately identify which customer made each payment based on UPI IDs, bank aliases, name patterns, and fuzzy matching. The program also calculates a match confidence score to help validate results.
 
 ---
